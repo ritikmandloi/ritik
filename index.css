@@ -1,0 +1,22 @@
+#card-section{
+    margin-top: 30px;
+}
+.image{
+    padding: 30px;
+}
+#image{
+    width: 150px;
+    height: 150px
+}
+.nav1{
+    margin-top: 30px;
+}
+.list{
+    display: flex;
+
+}
+.nav-link{
+    margin-left: 20px; 
+    font-size: 20px;
+    color: black;
+}
